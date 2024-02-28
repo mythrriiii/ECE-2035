@@ -1,0 +1,30 @@
+	BASE FEATURE CHECKLIST FOR TALES OF BUZZ 
+
+
+Student Name: Mythri Muralikannan
+
+BASIC GAME FUNCTIONALITY
+
+__Y__  Nav-Switch moves the player. Status Bar is displayed at top showing player coordinates
+
+__Y__  Walls block character motion
+
+__Y__  The first Map must be bigger than the screen (at least 50*50 tiles). The top status area should
+	display at a minimum, the current Player coordinates within the map
+
+__Y__  Stairs/ladders/portals/door to go between the first and the second map. he second map must be
+	visually different from the first map
+
+__Y__  More than one (1) attack to choose from to fight enemies/bosses. Attack button works.
+
+__Y__  Quest works (key & door work)
+
+__Y__  Display Game Over when quest is completed
+
+__Y__  Speech bubbles used in quest and casting spell
+
+__Y__  Art include at least one (1) sprite
+
+__Y__  Enemies drop items when defeated. At least two distinct enemy types (in addtion to the Boss).
+
+
